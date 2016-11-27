@@ -1,5 +1,5 @@
 {
-    "name": "opilo/telegram-cli-client",
+    "name": "opilo/php-telegram-cli-client",
     "description": "php-client for telegram-cli",
     "type": "library",
     "homepage": "https://github.com/zyberspace/php-telegram-cli-client",
